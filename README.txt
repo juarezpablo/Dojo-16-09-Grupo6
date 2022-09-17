@@ -12,4 +12,4 @@ Descripción del proyecto: El proyecto fue ideado con la finalidad de crear un s
  
 Links
 Thinkercad: 
-Video del proceso: 
+Video del proceso: https://drive.google.com/file/d/1z6lzsvL3cFesny8KfCl1o15Z2MPBJ6-u/view
